@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LivePricesClient": {
+      "commandName": "Project",
+      "commandLineArgs": "1000"
+    }
+  }
+}
